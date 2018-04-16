@@ -1,0 +1,15 @@
+#table{
+    position:relative;
+    left: 25%;
+    text-align:center;
+    width:400px;
+    top:150px;
+}
+.trigger{
+    position:relative;
+    left:45%;
+    top:75px;
+    height:20px;
+    width:150px;
+    font-size:15px;
+}
